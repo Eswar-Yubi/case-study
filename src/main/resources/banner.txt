@@ -1,0 +1,8 @@
+${Ansi.BLUE}          JJJ      M       M      CCCCC
+${Ansi.BLUE}           J       MM     MM     C
+${Ansi.BLUE}           J       M M   M M     C
+${Ansi.BLUE}        J  J       M  M M  M     C
+${Ansi.BLUE}         JJJ       M   M   M      CCCCC
+
+${Ansi.GREEN} :: This is a case-study application submitted by - Eswar M
+${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
